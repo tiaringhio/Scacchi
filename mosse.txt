@@ -1,1 +1,102 @@
-Riccardo Fava 287516 - Mattia Ricci 285237
+Fava Riccardo 287516 - Ricci Mattia 285237
+bishop-white-b1
+a2
+c2
+d3
+*queen - e4
+pawn-white-d2
+d3
+knight-white-f2
+h1
+g4
+*queen - e4
+d3
+d1
+pawn-white-h2
+no move
+pawn-white-f3
+*queen - e4
+rook-white-g3
+g2
+g1
+g4
+pawn-white-h3
+h4
+king-white-a5
+b4
+b6
+a4
+rook-white-b5
+c5
+d5
+b4
+b3
+*pawn - b2
+b6
+b7
+pawn-white-e5
+e6
+pawn-white-g5
+no move
+pawn-white-a6
+a7
+knight-white-c7
+d5
+e6
+e8
+a8
+queen-white-d7
+e6
+*pawn - f5
+c8
+c6
+e8
+e7
+f7
+g7
+h7
+d6
+d5
+d4
+d3
+d8
+bishop-white-b8
+a7
+pawn-black-g6
+no move
+pawn-black-f5
+no move
+king-black-f4
+*rook - g3
+*pawn - g5
+*pawn - e5
+e3
+*pawn - f3
+g4
+queen-black-e4
+*pawn - f3
+d5
+c6
+b7
+a8
+d3
+c2
+*bishop - b1
+d4
+e3
+e2
+e1
+*pawn - e5
+bishop-black-c4
+d3
+e2
+f1
+*rook - b5
+b3
+a2
+d5
+e6
+f7
+g8
+pawn-black-b2
+no move

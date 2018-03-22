@@ -1,4 +1,0 @@
-C:\Users\Mattia\Documents\OneDrive - Universit� degli Studi di Parma\Universit�\1 Anno\2 Semestre\Programmazione Software\Esercizi\Scacchi\pasw00401.cpp: In function 'int main()':
-C:\Users\Mattia\Documents\OneDrive - Universit� degli Studi di Parma\Universit�\1 Anno\2 Semestre\Programmazione Software\Esercizi\Scacchi\pasw00401.cpp:101:73: error: expected primary-expression before 'converti'
-         cout << s[r][c].pezzo << "-" << s[r][c].colore << "-" << Ccoord converti (maffo) << maffo.riga << endl;
-                                                                         ^~~~~~~~
